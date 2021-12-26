@@ -1,0 +1,19 @@
+.body{
+    background-color:rebeccapurple;
+}
+.contact-info-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 50px;
+}
+.contact-info-container > h4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 200px;
+    font-style: bold;
+}
+.contact-form-container{
+    margin: 20px 20px 20px 20px;
+}
